@@ -1,5 +1,5 @@
 const aboutme = {
-    name: 'Oladeni ifeoluwwa',
+    name: 'Oladeni ifeoluwa',
     height: '5.9 inches',
     country: 'Nigeria',
 };
